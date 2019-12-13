@@ -1,0 +1,26 @@
+{
+  "name": "basicproject",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "basicrouting.js",
+  "scripts": {
+    "test": "\"nothing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamkumardubey/node-basic.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamkumardubey/node-basic/issues"
+  },
+  "homepage": "https://github.com/shivamkumardubey/node-basic#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}

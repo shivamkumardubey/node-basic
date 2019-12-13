@@ -7,3 +7,6 @@
  });
  server.listen(3000,'127.0.0.1');
  console.log('server is work at 3000');
+
+
+ //without using express
