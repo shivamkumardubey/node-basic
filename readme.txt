@@ -1,1 +1,1 @@
-yes , my name is shivam kumar dubey i am student of nit patna 
+some basic about nodejs
